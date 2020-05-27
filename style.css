@@ -1,0 +1,38 @@
+body {
+    
+}
+
+#banner { /*id começa com #*/
+    width: 100%; /*largura da imagem do banner*/
+}
+
+.principal {
+    background: #CCCCCC;/*cor do plano de fundo da classe principal*/
+}
+
+h1 { /*titulo 1*/
+    text-align: center;
+}
+p { /*paragrafo*/
+    text-align: center;
+}
+
+#missão { /*id missão*/
+    font-size: 20px;
+}
+
+em strong { /*'em'italico  'strong' negrito */
+    color: red;
+}
+
+h2 { /*titulo 2*/
+    text-align: center;
+}
+
+.itens {/*classe começa ponto*/
+    font-style: italic; 
+}
+
+.beneficios {
+    background: #FFFFFF;
+}
